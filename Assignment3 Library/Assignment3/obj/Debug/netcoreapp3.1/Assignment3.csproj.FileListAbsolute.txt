@@ -1,0 +1,15 @@
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.deps.json
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.dll
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.pdb
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csprojAssemblyReference.cache
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.UserControl1.resources
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csproj.GenerateResource.cache
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfoInputs.cache
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfo.cs
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.dll
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.pdb
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.Form1.resources
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.Properties.Resources.resources
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.UserControl2.resources
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.Form2.resources

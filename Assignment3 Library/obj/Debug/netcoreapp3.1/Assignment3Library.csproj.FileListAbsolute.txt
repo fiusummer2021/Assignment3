@@ -1,0 +1,15 @@
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3Library.deps.json
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3Library.dll
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3Library.pdb
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3Library.csprojAssemblyReference.cache
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.Form1.resources
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.Form2.resources
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3Library.Properties.Resources.resources
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.UserControl1.resources
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.UserControl2.resources
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3Library.csproj.GenerateResource.cache
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3Library.AssemblyInfoInputs.cache
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3Library.AssemblyInfo.cs
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3Library.csproj.CoreCompileInputs.cache
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3Library.dll
+C:\Users\Princess Chey\Documents\school\Summer2021\Windows\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3Library.pdb
